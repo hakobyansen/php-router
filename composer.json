@@ -10,7 +10,8 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "PhpRouter\\": "src/"
+            "PhpRouter\\": "src/",
+            "Tests\\": "tests/"
         }
     },
     "authors": [

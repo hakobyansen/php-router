@@ -2,7 +2,7 @@
 
 namespace PhpRouter\Router;
 
-use App\Helpers\FileSystemUtil;
+use PhpRouter\Helpers\FileSystemUtil;
 
 class RouterHandler
 {
