@@ -1,0 +1,22 @@
+{
+    "name": "hakobyansen/php-router",
+    "description": "HTTP router",
+    "require": {
+        "php": "^8.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11.1"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "PhpRouter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Senik Hakobyan",
+            "email": "sen.hakobyan@gmail.com"
+        }
+    ]
+}
